@@ -1,0 +1,1 @@
+HANDLE m_handle;

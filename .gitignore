@@ -1,0 +1,8 @@
+bin
+obj
+M3
+.clangd
+.clangd.win32
+.clangd.unix
+.vs
+x64
